@@ -4,7 +4,7 @@ channels:
   - conda-forge
 dependencies:
   - python=3.11
-  - pandas
-  - numpy
+  - pandas=2.3.3
+  - numpy=2.3.4
   - openpyxl
   - pip
